@@ -10,22 +10,19 @@
 
 ###
 
-<p align="left">✨ Currently working as backend developer in Java<br>📚 Bacharelors in Software Enginnering.<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
+<p align="left">✨ Currently working as backend developer in Java<br>📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/joaovmiguel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
-###
+[![Alt text](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/joaovmiguel/)
+[![Alt text](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://www.linkedin.com/in/joaovmiguel/)
+[![Alt text](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.linkedin.com/in/joaovmiguel/)
+
+</div>
 
 <div align="center">
-    ![grass](https://github.com/user-attachments/assets/802ce7c6-b131-4f6f-9318-2fdd1dc658d4)
+      <img src="https://github.com/user-attachments/assets/41841de6-77d6-4378-a8ba-ba1c8bb5fb33" />
 </div>
 
-###
