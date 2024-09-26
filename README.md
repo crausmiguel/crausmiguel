@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Count and I'm a 3D Graphics Developer from Brazil.</p>
+<p align="left">My name is Count, I'm a 3D Graphics Developer from Brazil.</p>
 
 ###
 
