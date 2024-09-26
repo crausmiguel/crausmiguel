@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working as backend developer in Java<br>📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
+<p align="left">📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
 
 ###
 
