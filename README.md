@@ -33,6 +33,8 @@
 </div>
 
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/41841de6-77d6-4378-a8ba-ba1c8bb5fb33" />
+  
+![Noisy_sphere](https://github.com/user-attachments/assets/4e58d464-61a2-4428-9555-65edd82fd3a2)
+  
 </div>
 
