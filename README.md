@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Count, I'm a 3D Graphics Developer from Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
+<p align="left">My name is Count, I'm a aspirant pentester.</p>
 
 ###
 
@@ -34,7 +26,7 @@
 
 <div align="center">
   
-![Noisy_sphere](https://github.com/user-attachments/assets/4e58d464-61a2-4428-9555-65edd82fd3a2)
-  
+![B](https://github.com/user-attachments/assets/9f1406bb-d9b4-4332-aa47-8b7778cd4850)
+
 </div>
 
