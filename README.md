@@ -1,4 +1,18 @@
+
 <h1 align="left">Hey, What's up?</h1>
+
+###
+
+<p align="left">My name is Count, I'm a 3D Graphics Developer from Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
+
 
 ###
 
