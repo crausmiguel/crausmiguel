@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Count, I'm a aspirant pentester.</p>
-
-###
-
 <div align="left">
 <div id="badges">
   <a href="https://www.linkedin.com/in/joaovmiguel/"  target="_blank">
