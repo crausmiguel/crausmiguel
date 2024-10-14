@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Miguel, I'm a 3D Graphics Developer.</p>
+<p align="left">My name is Miguel, I'm a Jr Pentester and Malware Analytics.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 Bacharelors in Software Engineering<br>:game_die: Soulslike and Cyberpunk are my favorite genres</p>
+<p align="left">📚 Bacharelors in Software Engineering<br>🌆 Cyberpunk is my favorite genre </p>
 
 
 ###
@@ -24,10 +24,6 @@
       <br>
   <a href="your-youtube-URL"  target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-      <br>
-  <a href="your-twitter-URL"  target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
   </a>
       <br>
   <a href="https://crausmiguel.github.io/"  target="_blank">
