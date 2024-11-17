@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Miguel, I'm a Jr Pentester and Malware Analytics.</p>
+<p align="left">My name is Miguel, I'm a Graphics Programmer from Brazil.</p>
 
 ###
 
