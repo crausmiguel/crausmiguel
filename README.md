@@ -7,12 +7,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Bacharelors in Software Engineering<br>🌆 Cyberpunk is my favorite genre </p>
-
 
 ###
 
