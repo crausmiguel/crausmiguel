@@ -21,7 +21,7 @@
   </a>
       <br>
   <a href="https://crausmiguel.github.io/"  target="_blank">
-    <img src="https://img.shields.io/badge/Portifolio-darkred?style=for-the-badge&logo=aparat&logoColor=white" alt="My site"/>
+    <img src="https://img.shields.io/badge/Portifolio-darkred?style=for-the-badge&logo=aparat&logoColor=white" alt="My site"/> WIP
   </a>
 </div>
 
