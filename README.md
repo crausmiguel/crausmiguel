@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Miguel, I'm a Graphics Programmer from Brazil.</p>
+<p align="left">My name is Miguel, I'm a Backend Developer from Brazil.</p>
 
 ###
 
@@ -15,14 +15,6 @@
   <a href="https://www.linkedin.com/in/joaovmiguel/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-      <br>
-  <a href="your-youtube-URL"  target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-      <br>
-  <a href="https://crausmiguel.github.io/"  target="_blank">
-    <img src="https://img.shields.io/badge/Portifolio-darkred?style=for-the-badge&logo=aparat&logoColor=white" alt="My site"/> 
-  </a>   (WIP)
 </div>
 
 
